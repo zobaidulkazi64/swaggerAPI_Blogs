@@ -17,7 +17,7 @@ dependencies:
 dev_dependencies:
   ### npm packages
        
-        npm i express yamljs swagger-ui-express
+        npm i express yamljs swagger-ui-express dotenv
 
 scripts:
   start: node index.js
