@@ -4,7 +4,8 @@
 
     ```bash
 
-    npm i express yamljs swagger-ui-express
+    npm i express yamljs swagger-ui-express dotenv
+    
 
     ```
 
